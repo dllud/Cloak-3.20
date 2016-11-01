@@ -199,9 +199,9 @@ style "chrome-gtk-frame" {
   ChromeGtkFrame::frame-gradient-color = shade (1.05, @bg_color)
   ChromeGtkFrame::inactive-frame-color = @bg_color
 
-  ChromeGtkFrame::incognito-frame-color          = "#acb7c2"
-  ChromeGtkFrame::incognito-frame-gradient-color = "#acb7c2"
-  ChromeGtkFrame::incognito-inactive-frame-color = mix (0.5, @bg_color, "#acb7c2")
+  ChromeGtkFrame::incognito-frame-color          = "#154478"
+  ChromeGtkFrame::incognito-frame-gradient-color = "#154478"
+  ChromeGtkFrame::incognito-inactive-frame-color = mix (0.5, @bg_color, "#154478")
 }
 
 style "chrome_entry" {

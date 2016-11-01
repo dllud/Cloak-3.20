@@ -63,11 +63,11 @@
     <linearGradient
        id="linearGradient39563-4-2">
       <stop
-         style="stop-color:#acb7c2;stop-opacity:1"
+         style="stop-color:#154478;stop-opacity:1"
          offset="0"
          id="stop39565-1-4" />
       <stop
-         style="stop-color:#acb7c2;stop-opacity:0"
+         style="stop-color:#154478;stop-opacity:0"
          offset="1"
          id="stop39567-7-9" />
     </linearGradient>
@@ -110,6 +110,6 @@
   <path
      d="m 44.076925,13.500007 c 0,2.527765 -2.049159,4.576923 -4.576924,4.576923 -2.527765,0 -4.576923,-2.049158 -4.576923,-4.576923 0,-2.527765 2.049158,-4.5769238 4.576923,-4.5769238 2.527765,0 4.576924,2.0491588 4.576924,4.5769238 z"
      id="path99973"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#acb7c2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+     style="color:#f8f8f8;display:inline;overflow:visible;visibility:visible;fill:#154478;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>

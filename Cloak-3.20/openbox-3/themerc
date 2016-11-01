@@ -1,12 +1,12 @@
 #openbox themerc edited with obtheme
 border.width: 2
-menu.border.color: #ACB7C2
+menu.border.color: #154478
 menu.border.width: 2
 menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: #ACB7C2
+menu.items.active.bg.color: #154478
 menu.items.active.bg.border.color: #959FA8
 menu.items.active.disabled.text.color: #454546
-menu.items.active.text.color: #08080D
+menu.items.active.text.color: #F8F8F8
 menu.items.bg: Solid None
 menu.items.bg.color: #08080a
 menu.items.disabled.text.color: #454546
@@ -28,9 +28,9 @@ menu.title.text.justify: Center
 osd.bg: Gradient Vertical None Border
 osd.bg.color: #0F0F10
 osd.bg.colorTo: #111114
-osd.bg.border.color: #ACB7C2
+osd.bg.border.color: #154478
 osd.bg.border.width: 2
-osd.border.color: #ACB7C2
+osd.border.color: #154478
 osd.hilight.bg: Solid Flat Border
 osd.hilight.bg.color: #565659
 osd.hilight.bg.border.color: #4B4B4F

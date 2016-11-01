@@ -45,13 +45,13 @@ XfdashboardSearchView
 #notification, #tooltip
 {
 	background-fill-color: #08080dcc;
-	outline-color: #acb7c299;
+	outline-color: #15447899;
 }
 
 #quicklaunch, #quicklaunch:drop-target
 {
 	background-fill-color: #0f0f10;
-	outline-color: #acb7c280;
+	outline-color: #15447880;
 }
 
 #quicklaunch XfdashboardButton:hover
@@ -72,13 +72,13 @@ XfdashboardQuicklaunch #trash-button:drop-target
 .drag-actor-XfdashboardLiveWindow:drag-handle
 {
 	background-fill-color: #1a1a1ca0;
-	outline-color: #acb7c280;
+	outline-color: #15447880;
 }
 
 XfdashboardWorkspaceSelector
 {
 	background-fill-color: #0f0f10;
-	outline-color: #acb7c280;
+	outline-color: #15447880;
 }
 
 XfdashboardLiveWorkspace
@@ -88,22 +88,22 @@ XfdashboardLiveWorkspace
 
 XfdashboardLiveWorkspace:active
 {
-	outline-color: #acb7c2;
+	outline-color: #154478;
 }
 
 XfdashboardScrollbar
 {
-	slider-color: #acb7c260;
+	slider-color: #15447860;
 }
 
 XfdashboardScrollbar:hover
 {
-	slider-color: #acb7c2a0;
+	slider-color: #154478a0;
 }
 
 XfdashboardScrollbar:pressed
 {
-	slider-color: #acb7c2ff;
+	slider-color: #154478ff;
 }
 
 XfdashboardSearchView XfdashboardSearchResultContainer XfdashboardButton.result-item:hover,
@@ -116,7 +116,7 @@ XfdashboardSearchView XfdashboardSearchResultContainer XfdashboardButton:selecte
 XfdashboardApplicationsView XfdashboardButton:selected
 {
 	background-fill-color: #060608a6;
-	outline-color: #acb7c280;
+	outline-color: #15447880;
 }
 
 #view-selector XfdashboardToggleButton:toggled
@@ -126,7 +126,7 @@ XfdashboardApplicationsView XfdashboardButton:selected
 
 #searchbox.focus
 {
-	outline-color: #acb7c299;
+	outline-color: #15447899;
 	background-fill-color: #1f1f20;
 }
 
@@ -140,7 +140,7 @@ XfdashboardLiveWindow
 XfdashboardWindowsView XfdashboardLiveWindow:selected,
 XfdashboardWindowsView XfdashboardLiveWindow:hover
 {
-	outline-color: #acb7c2ff;
+	outline-color: #154478ff;
 }
 
 XfdashboardLiveWindow:selected XfdashboardButton.title
@@ -152,7 +152,7 @@ XfdashboardLiveWindow:selected XfdashboardButton.title
 XfdashboardLiveWindow:hover XfdashboardButton.title
 {
 	background-fill-color: #040406cc;
-	outline-color: #acb7c289;
+	outline-color: #15447889;
 }
 
 /* effects */

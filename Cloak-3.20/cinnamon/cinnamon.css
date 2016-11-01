@@ -98,9 +98,9 @@ StScrollBar StButton#vhandle:hover {
 .notification-button:focus,
 .notification-icon-button:focus,
 .modal-dialog-button:focus {
-	color: #08080a;
+	color: #f8f8f8;
 	border: 2px solid rgba(0, 0, 0, 0.6);
-	background-gradient-start: #acb7c2;
+	background-gradient-start: #154478;
 	background-gradient-end: #9ba5af;
 }
 .notification-button:active, .notification-icon-button:active,
@@ -128,8 +128,8 @@ StScrollBar StButton#vhandle:hover {
     icon-size: 1.14em;
 }
 .popup-submenu-menu-item:open {
-	background-color: #acb7c2;
-	color: #08080d;
+	background-color: #154478;
+	color: #f8f8f8;
 }
 .popup-sub-menu {
 	background-gradient-start: #0d0d0e;
@@ -697,8 +697,8 @@ StScrollBar StButton#vhandle:hover {
 	padding: 4px;
 	border-radius: 4px;
 	color: #aaaaab;
-	selected-color: black;
-	selection-background-color: #acb7c2;
+	selected-color: #f8f8f8;
+	selection-background-color: #154478;
 	border: 1px solid rgba(0,0,0,0.6);
 	background-gradient-direction: vertical;
 	background-gradient-start: #1f1f20;
@@ -709,14 +709,14 @@ StScrollBar StButton#vhandle:hover {
 	caret-size: 1px;
 }
 #notification StEntry:focus {
-	border: 1px solid #acb7c2;
+	border: 1px solid #154478;
 	color: #aaaaab;
 	background-gradient-direction: vertical;
 	background-gradient-start: #1f1f20;
 	background-gradient-end: #1f1f20;
 	caret-color: white;
-	selection-background-color: #acb7c2;
-	selected-color: #08080d;
+	selection-background-color: #154478;
+	selected-color: #f8f8f8;
 }
 /* ===================================================================
  * Alt Tab
@@ -1210,7 +1210,7 @@ StScrollBar StButton#vhandle:hover {
 }
 #menu-search-entry:focus,
 #menu-search-entry:hover {
-	border: 2px solid #acb7c2;
+	border: 2px solid #154478;
 	background-gradient-start: #1f1f20;
 	background-gradient-end: #1f1f20;
 	background-gradient-direction: vertical;
@@ -1602,7 +1602,7 @@ StScrollBar StButton#vhandle:hover {
 }
 .panel-launcher-add-dialog-entry:focus,
 .panel-launcher-add-dialog-entry:hover {
-	border: 2px solid #acb7c2;
+	border: 2px solid #154478;
 	background-gradient-start: #1f1f20;
 	background-gradient-end: #1f1f20;
 	background-gradient-direction: vertical;
@@ -1799,10 +1799,10 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .expo-workspaces-name-entry#selected {
-	background-gradient-start: #acb7c2;
-	background-gradient-end: #acb7c2;
+	background-gradient-start: #154478;
+	background-gradient-end: #154478;
 	font-weight: bold;
-	color: rgb(0, 0, 0);
+	color: #f8f8f8;
 }
 
 .expo-workspaces-name-entry:focus {
